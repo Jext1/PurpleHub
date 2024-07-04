@@ -5565,7 +5565,7 @@ end)
 
 
 
-				ToggleConfig.Color = ToggleConfig.Color or Color3.fromRGB(194, 66, 66)
+				ToggleConfig.Color = ToggleConfig.Color or Color3.fromRGB(44, 17, 64)
 
 
 
